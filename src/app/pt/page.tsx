@@ -68,7 +68,9 @@ export default function Page() {
               </Card>
             </div>
             <p className="text-zinc-600 sm:text-center text-left text-xl my-4">Essas vantagens tornam o processo de obtenção do certificado digital por videoconferência uma opção atraente e moderna, alinhada com as necessidades de um mundo cada vez mais digital e conectado.</p>
-            <Button />
+            <div className="w-full flex justify-center">
+              <Button />
+            </div>
           </div>
         </Section>
         <Section className="px-4 pt-8 sm:pt-24">
