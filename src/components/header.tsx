@@ -7,15 +7,15 @@ export function Header() {
             <div className="w-full max-w-6xl sm:grid sm:grid-cols-2 items-center sm:gap-0">
                 <div className="flex flex-col gap-2 items-start sm:text-left text-center">
                     <p className="uppercase font-semibold tracking-wider text-sm text-[#1DB83D]">Emita seu certificado via vídeo conferência!</p>
-                    <h1 className="text-3xl sm:text-5xl font-bold">Proteja seu negócio com os <span className="text-[#1DB83D]">Certificados Digitais</span> da Solutio Gás!</h1>
+                    <h1 className="text-3xl sm:text-5xl font-bold">Proteja seu negócio com os <span className="text-[#1DB83D]">Certificados Digitais</span> da WLE!</h1>
                     <Button />
                 </div>
                 <div className="hidden sm:block">
                     <Image
                         src="/images/bg.png"
                         alt="Imagem de entregador feliz"
-                        width={860}
-                        height={809}
+                        width={644}
+                        height={524}
                     />
                 </div>
                 <div className="sm:hidden block mt-4">
